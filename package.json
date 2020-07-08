@@ -1,0 +1,27 @@
+{
+  "name": "stacked-breathing-game",
+  "version": "1.0.0",
+  "description": ".",
+  "main": "game.js",
+  "dependencies": {
+    "p5.js": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "UNB HCI Lab",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcilab/stacked-breathing-game.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "bugs": {
+    "url": "https://github.com/hcilab/stacked-breathing-game/issues"
+  },
+  "homepage": "https://github.com/hcilab/stacked-breathing-game#readme"
+}
